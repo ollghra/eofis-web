@@ -1,5 +1,5 @@
 <template>
-  <div class="articles">
+  <div class="container">
     <ArticleViewer filepath="p1-tr_cq.json"/>
   </div>
 </template>
