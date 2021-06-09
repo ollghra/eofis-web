@@ -2,10 +2,6 @@
 <!--    <img alt="EOFIS logo" src="../assets/logo.png"> -->
 <section class="section">
 <HomeBody/>
-  <h1 class="title">What is EOFIS?</h1>
-  <h2 class="subtitle">
-Learning & retaining
-  </h2>
 </section>
 </template>
 

@@ -5,7 +5,7 @@
       <img src="android-chrome-192x192.png" alt="EOFIS: a new learning tool">
     </router-link>
     <router-link class="navbar-item" to="/">Home</router-link>
-    <router-link class="navbar-item" to="/about">About</router-link>
+<!--    <router-link class="navbar-item" to="/about">About</router-link>-->
     <router-link class="navbar-item" to="/articles">Sample Articles</router-link>
 <!--
     <div class="navbar-burger" data-target="navbar">
