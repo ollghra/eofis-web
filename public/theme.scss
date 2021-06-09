@@ -8,6 +8,7 @@ $red: #eb2448;
 $peach: #ff7948;
 $blue: #82afff;
 $yellow: #fbbc05;
+$yellow-lighter: #ffd761;
 $purple: #8A4D76;
 $pink: #FA7C91;
 $brown: #757763;
@@ -26,8 +27,9 @@ $link: $peach;
 $widescreen-enabled: false;
 $fullhd-enabled: false;
 
-$column-gap: 2rem;
 
+$card-background-color: $peach;
+$card-color: $black-bis;
 $box-background-color: $peach;
 $box-color: $black-bis;
 

@@ -3645,10 +3645,10 @@ a.navbar-item,
   min-height: calc(100vh - 3.25rem); }
 
 .card {
-  background-color: #fbbc05;
+  background-color: #ff7948;
   border-radius: 0.25rem;
   box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
-  color: #757763;
+  color: #121212;
   max-width: 100%;
   position: relative; }
 
